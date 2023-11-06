@@ -1,2 +1,3 @@
 # html-portfolio
-Learning HTML 
+
+Building html projects  
